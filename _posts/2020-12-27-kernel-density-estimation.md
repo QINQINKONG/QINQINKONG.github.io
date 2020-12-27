@@ -11,4 +11,4 @@ The bin size in histogram controls how smooth the histogram is. For KDE, the cor
 
 In practical application, we need to choose the bandwidth and the kernel function, the first of which require some experiments to decide which bandwith is proper. The choice of kernel function seems complicated to me, and it was considered that the Radial Basis Function (RBF) kernel is generally a good choice.
 
-Matthew Conlen has a wonderful post to help people intuitively understand how KDE works (*https://mathisonian.github.io/kde/*). The fastKDE package can be used to perform KDE in python (*https://github.com/LBL-EESA/fastkde*).
+Matthew Conlen has a wonderful post to help people intuitively understand how KDE works [https://mathisonian.github.io/kde/](https://mathisonian.github.io/kde/).
