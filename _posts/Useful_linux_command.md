@@ -1,7 +1,8 @@
 ---
 layout: post
 ---
-**check the linux distribution type**
-```lsb_release -a```
+- **check the linux distribution type**
 
-```cat /etc/os-release```
+  - ```lsb_release -a```
+
+  - ```cat /etc/os-release```
