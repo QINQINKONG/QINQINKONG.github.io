@@ -7,4 +7,5 @@ layout: post
 
   - ```cat /etc/os-release```
 - **check whether a package is installed in the system**
+  
   -```rpm -q $package```
