@@ -1,3 +1,8 @@
+---
+layout: post
+title: "Inversion"
+categories: misc
+---
 There are several types of inversions in the atmosphere:
 
 - Radiation inversion
